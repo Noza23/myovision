@@ -53,6 +53,15 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
 6. [App Frontend](https://github.com/davitchanturia/myovision-app-front)
    Contains the Frontend of the Web Application.
 
+## Maintainer
+
+```python
+{
+    name = "Giorgi Nozadze",
+    email = "giorginozadze23@yahoo.com"
+}
+```
+
 ## Acknowledgements
 
 We would like to thank:
