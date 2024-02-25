@@ -15,15 +15,43 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
 
 ## Project Structure
 
-1. Main Repository
+1. [Main Repository](https://github.com/Noza23/myovision) (this repository)
+   Contains notebooks for presentig main results of the project. Notebooks are located in the `notebooks` directory:
 
-2. Data Collection
+   - `01_predict_performance.ipynb`: Prediction and Performance Computation.
+   - `02_exploratory_data_analysis.ipynb`: Exploratory Data Analysis
+   - `03_classical_cv.ipynb`: Classical Computer Vision Techniques
+   - `04_presentation_plots.ipynb`: Presentation Plots
 
-3. Model Training
+2. [Data Collection](https://github.com/Noza23/myovision-data-utils)
+   Contains scripts for collecting and preprocessing training data.
+   For data annotation process we employed a specificly designed tool which is not public for now but we provide a visualization of the data annotation process:
 
-4. Model Inference
+   ```
+   If you are interested in the Data Annotation Tool, please contact us.
+   ```
 
-5. Project Report
+   ![caption](assets/valid_short.gif)
+
+3. [Model Training / Inference](https://github.com/Noza23/myovision-sam)
+   Contains the modules for Training and Inference of segment-anything model for myotube segmentation and stardist model for nuclei segmentation.
+
+   Visualisation of Inferece process in the designed tool:
+
+   ```
+   If you are interested in the Inference Tool, please contact us.
+   ```
+
+   ![caption](assets/infer_short.gif)
+
+4. [Project Report](https://github.com/davetornado/myovision-report)
+   Contains the Final Report of the project.
+
+5. [App Backend](https://github.com/Noza23/myovision-app)
+   Contains the Backend of the Web Application.
+
+6. [App Frontend](https://github.com/davitchanturia/myovision-app-front)
+   Contains the Frontend of the Web Application.
 
 ## Acknowledgements
 
