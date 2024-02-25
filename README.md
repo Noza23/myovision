@@ -53,6 +53,10 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
 6. [App Frontend](https://github.com/davitchanturia/myovision-app-front)
    Contains the Frontend of the Web Application.
 
+## MyoSAM Model
+
+- [MyoSAM checkpoint](https://drive.google.com/file/d/1wAlAgqo_NCNnrE8zjQFIkHXpLhTjg3fs/view?usp=sharing)
+
 ## Maintainer
 
 ```python
