@@ -9,7 +9,7 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
 
 ## Supervisors and Project Partner
 
-- Supervisors: [Prof. Dr. David Rügamer](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/People/professors/ruegamer/index.html) and [Tobias Weber](https://www.slds.stat.uni-muenchen.de/people/weber/)
+- Supervisors: [Prof. Dr. David Rügamer](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/People/professors/ruegamer/index.html), [Dr. Andreas Bender](https://www.slds.stat.uni-muenchen.de/people/bender/) and [Tobias Weber](https://www.slds.stat.uni-muenchen.de/people/weber/)
 
 - Project Partner: [Dr. rer. nat. Maximilian Saller](https://www.lmu-klinikum.de/mum-lmu/287b7a2983b88c7a/e7ce030587e73f0c)
 
@@ -21,7 +21,6 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
    - `01_predict_performance.ipynb`: Prediction and Performance Computation.
    - `02_exploratory_data_analysis.ipynb`: Exploratory Data Analysis
    - `03_classical_cv.ipynb`: Classical Computer Vision Techniques
-   - `04_presentation_plots.ipynb`: Presentation Plots
 
 2. [Data Collection](https://github.com/Noza23/myovision-data-utils)
    Contains scripts for collecting and preprocessing training data.
