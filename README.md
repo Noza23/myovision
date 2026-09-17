@@ -54,7 +54,7 @@ This is the main repository for the Consulting Project: **"Quantification of Myo
 
 ## MyoSAM Model
 
-- [MyoSAM checkpoint](https://drive.google.com/file/d/1wAlAgqo_NCNnrE8zjQFIkHXpLhTjg3fs/view?usp=sharing)
+- [MyoSAM checkpoint](https://drive.google.com/file/d/1xdq9bHUS9gc8IcZDvyRZJrR4CP3H5JsF/view?usp=sharing)
 
 ## Maintainer
 
